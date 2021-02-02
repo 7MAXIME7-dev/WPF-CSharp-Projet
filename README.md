@@ -2,7 +2,7 @@
 
 
 
-![](Capture1.jpg)
+![](Capture1.JPG)
 
 
 ![](Capture2.jpg)
